@@ -2,7 +2,7 @@
 <h3 align="center">Senior Front-End Developer | Front-End Technical Lead | Vue.js Specialist</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=smrd1998&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=reydi-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/badge/Experience-7%2B%20years-blue" />
   <img src="https://img.shields.io/badge/Focus-Frontend%20%7C%20Cross--Platform-brightgreen" />
 </p>
@@ -72,15 +72,15 @@ Hands-on experience with Docker and containerizing applications.
 ### 📊 GitHub Stats
 
 <!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smrd1998&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=reydi-dev&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p> -->
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smrd1998&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=reydi-dev&theme=radical" alt="GitHub Streak" />
 </p>
 
 <!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=smrd1998&show_icons=true&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reydi-dev&show_icons=true&layout=compact&theme=radical" alt="Top Languages" />
 </p> -->
 
 ---
