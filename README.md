@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm MohammadReza Dehghani 👋</h1>
-<h3 align="center">Senior Front-End Developer | Vue.js Specialist | Cross-Platform Enthusiast</h3>
+<h3 align="center">Senior Front-End Developer | Front-End Technical Lead | Vue.js Specialist</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=smrd1998&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -13,6 +13,7 @@
 
 I'm a **Senior Front-End Developer** with over 7 years of professional experience building scalable web and cross-platform applications.  
 My core expertise lies in the **Vue.js ecosystem (Vue 2, Nuxt, Vuex)**. I have a proven track record of architecting **enterprise-level CRMs** and **complex, data-driven dashboards**.  
+I currently serve as **Front-End Technical Lead** on Aramin CRM, leading a five-person team, assigning work, and serving as the team's technical point of contact in client meetings.
 
 I also have strong hands-on experience with **React Native**, **Ionic**, and even native **Android (Java)** for IoT projects. I'm passionate about **performance optimization** and often write custom Vanilla JS solutions to avoid heavy third-party dependencies.
 
@@ -45,6 +46,13 @@ I also have strong hands-on experience with **React Native**, **Ionic**, and eve
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </p>
 
+#### Development Tooling
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+Hands-on experience with Docker and containerizing applications.
+
 ---
 
 ### 🚀 Key Projects (from my professional experience)
@@ -53,7 +61,7 @@ I also have strong hands-on experience with **React Native**, **Ionic**, and eve
 
 | Project | Description | My Role |
 |---------|-------------|---------|
-| **Aramin CRM (Iran Insurance)** | Enterprise CRM used by 2,000+ employees with complex role‑based access and custom analytical dashboards. | Sole front‑end architect & developer using Vue 2, Nuxt, Vuex. Built Vanilla JS utilities to eliminate heavy external libs. |
+| **Aramin CRM (Iran Insurance)** | Enterprise CRM used by 2,000+ employees with complex role‑based access and custom analytical dashboards. | Architected and developed the front end with Vue 2, Nuxt, and Vuex; built Vanilla JS utilities to reduce reliance on heavy libraries. Promoted to Front-End Technical Lead; now lead a five-person team, assign tasks, and represent the team in client meetings. |
 | **YourMarketHub Ecosystem (London‑based client)** | Complete e‑commerce and trading platform for a UK client, including landing page, trader dashboard, and mobile apps. | Developed landing & trader dashboard with Vue.js and React.js. Built mobile apps with React Native and Ionic. |
 | **Behgraam (MCI – Hamrah Aval)** | Instagram‑like social health platform. | Full front‑end development with Vue.js. |
 | **RegimPlus** | Comprehensive diet & fitness tracking application. | Implemented using React Native and React‑Native‑Web for multi‑channel distribution. |
